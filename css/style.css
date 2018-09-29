@@ -81,6 +81,7 @@ h1.ba-post-title {
 }
 
 .ba-post-button {
+	display:inline-block;
 	font-size: 18px;
 	padding: 20px 100px;
 	border: 2px solid #E8A156;
